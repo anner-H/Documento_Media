@@ -1,0 +1,38 @@
+*{
+    margin:0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+
+}
+
+:root{
+    --verde: #014034;
+    --esmeralda: #127361;
+    --celeste: #2CB9A2;
+    --turquesa: #1B8C6C;
+
+
+    --h1: 25rem;
+    --h2: 16rem;
+    --h3: 14rem; 
+    --parrafo: 1.5rem; 
+}
+
+html{
+    font-family: monospace;
+    font-size: 10px;
+}
+
+
+.background-section {
+    width: 100%;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+
+}
+
+.section-body{
+    max-width: 130rem;
+    height: auto;
+    margin: auto;
+}
